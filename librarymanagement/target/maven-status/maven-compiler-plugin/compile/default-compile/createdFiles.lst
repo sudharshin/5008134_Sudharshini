@@ -1,5 +1,0 @@
-application.properties
-applicationContext.xml
-com\library\librarymanagement\repository\BookRepository.class
-com\library\librarymanagement\service\BookService.class
-com\library\librarymanagement\LibrarymanagementApplication.class
